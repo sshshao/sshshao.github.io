@@ -16,6 +16,10 @@ permalink: /projects/
 
 ### (Bash-like) Unix Shell
 
+##Python
+
+###Seawolf Script
+
 ## Electrical Engineering
 
 ### Digital Clock - A Real One!
