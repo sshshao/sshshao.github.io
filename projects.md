@@ -4,16 +4,18 @@ title: Programming Projects
 permalink: /projects/
 ---
 
-#### Java
+## Java
 
 ### Regio Vinco Map Editor
+[Software Design Description (PDF)](https://www.google.com)
 
-#### C
+
+## C
 
 ### Memory Allocator
 
 ### (Bash-like) Unix Shell
 
-#### Electrical Engineering
+## Electrical Engineering
 
 ### Digital Clock - A Real One!
