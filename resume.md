@@ -20,9 +20,8 @@ B.S in Computer Science	(Anticipated May 2017)
 
 
 ##### Honors
-Dean's List
-
-Fall 2015 Academic Achievement Awards
+- Dean's List
+- Fall 2015 Academic Achievement Awards
 		
 
 
@@ -33,31 +32,26 @@ Treasurer of Second Dimension Imagination Group
 Aug. 2016 - Current
 
 - Managing club’s funds, equipment and expenses
-
 - Helping planning activities
-<p></p>
+
 Teaching Assistant of ISE108: Introduction to Programming 
 
 Aug. 2016 - Dec. 2016
 
 - Provided assistance to students’ questions and problems during lab
-
 - Holded office hours
 		
 
 
 ##### Programming Languages
 - 3+ years: Java
-
 - 1+ year: C
-
 - < 1 year: Python, JavaScript, MIPS Assembly, Standard ML, SWI Prolog
 		
 
 
 ##### Languages
 - Chinese (native proficiency)
-
 - Japanese (advanced proficiency)
 		
 
@@ -71,7 +65,7 @@ Aug. 2016 - Dec. 2016
 - Finite Mathematical Structures
 		
 
-		
+
 ##### Contact
 
 Email: shen.shao@stonybrook.edu
