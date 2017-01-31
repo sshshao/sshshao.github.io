@@ -1,7 +1,7 @@
 ---
 layout: page
-title: All About me
-permalink: /about/
+title: Resume
+permalink: /resume/
 ---
 
 
@@ -28,7 +28,7 @@ Teaching Assistant of ISE108: Introduction to Programming
 Aug. 2016 - Dec. 2016
 
 ##### Programming Languages
-Java (3+ years)
+Java
 C
 Python
 Javascript
