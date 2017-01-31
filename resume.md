@@ -9,6 +9,11 @@ permalink: /resume/
 
 [Click here to download my resume](www.google.com)
 
+
+
+
+
+
 ##### Education
 Stony Brook University
 
@@ -26,18 +31,18 @@ Treasurer of Second Dimension Imagination Group
 
 Aug. 2016 - Current
 
--Managing club’s funds, equipment and expenses
+- Managing club’s funds, equipment and expenses
 
--Helping planning activities
+- Helping planning activities
 
 
 Teaching Assistant of ISE108: Introduction to Programming 
 
 Aug. 2016 - Dec. 2016
 
--Provided assistance to students’ questions and problems during lab
+- Provided assistance to students’ questions and problems during lab
 
--Holded office hours
+- Holded office hours
 
 
 ##### Programming Languages
@@ -55,12 +60,12 @@ Japanese (advanced proficiency)
 
 
 ##### Relevant Courseworks
--Computer Science I, II, III
--System Fundamentals I, II
--Theory of Computations
--Principle of Programming Languages
--Analysis of Algorithms
--Finite Mathematical Structures
+- Computer Science I, II, III
+- System Fundamentals I, II
+- Theory of Computations
+- Principle of Programming Languages
+- Analysis of Algorithms
+- Finite Mathematical Structures
 
 
 ##### Contact
