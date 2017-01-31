@@ -7,7 +7,7 @@ permalink: /resume/
 
  
 
-[Click here to download my resume](../docs/resume_sample.pdf){:target="_blank"}
+> [Click here to download my resume](../docs/resume_sample.pdf){:target="_blank"}
 			
 
 
