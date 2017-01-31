@@ -7,7 +7,7 @@ permalink: /resume/
 
  
 
-[Click here to download my resume](www.google.com)
+[Click here to download my resume](docs/resume0126.pdf)
 
 
 
