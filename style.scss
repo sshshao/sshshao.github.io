@@ -20,7 +20,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4;
   color: $darkGray;
 }
 
@@ -32,7 +32,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
