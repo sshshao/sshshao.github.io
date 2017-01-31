@@ -10,7 +10,7 @@ permalink: /projects/
 
 *Regio Vinco* is a map-picking game made by the professor. The *Regio Vinco* Map Editor is a editing software written in Java that can construct maps for the game. The editor use Simple App Framework to perform basic file operations. The editing file and exported map is constructed in JSON format.
 
-[screenshot](../images/rvme_sc.png)
+![screenshot](../images/rvme_sc.png "Regio Vinco Map Editor")
 
 This software is the first "big" project with 3000+ lines of code I have done, and which I learned the whole process of releasing a software， from software design to beta test and review.
 
