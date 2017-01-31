@@ -7,7 +7,7 @@ permalink: /resume/
 
  
 
-[Click here to download my resume](sshshao.github.io/docs/resume0126.pdf)
+[Click here to download my resume](../docs/resume0126.pdf)
 
 
 
