@@ -46,17 +46,17 @@ Aug. 2016 - Dec. 2016
 
 
 ##### Programming Languages
-3+ years: Java
+- 3+ years: Java
 
-1+ year: C
+- 1+ year: C
 
-< 1 year: Python, JavaScript, MIPS Assembly, Standard ML, SWI Prolog
+- < 1 year: Python, JavaScript, MIPS Assembly, Standard ML, SWI Prolog
 
 
 ##### Languages
-Chinese (native proficiency)
+- Chinese (native proficiency)
 
-Japanese (advanced proficiency)
+- Japanese (advanced proficiency)
 
 
 ##### Relevant Courseworks
