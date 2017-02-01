@@ -12,7 +12,7 @@ permalink: /projects/
 
 ![screenshot](../images/rvme_sc.png "Regio Vinco Map Editor")
 
-This software is the first "big" project with 3000+ lines of code I have done, and which I learned the whole process of releasing a software， from software design to beta test and review.
+This software is the first "big" project with 3000+ lines of code I have done, and which I learned the whole process of releasing a software, from software design to beta test and review.
 
 
 ### Memory Allocator

@@ -7,10 +7,10 @@
 
 @import "reset";
 @import "variables";
-@import url('https://fonts.googleapis.com/css?family=Yantramanav|VT323');
+@import url('https://fonts.googleapis.com/css?family=Mako|Yantramanav|VT323');
 // Syntax highlighting @import is at the bottom of this file
 
-$bodyfont: 'Yantramanav', sans-serif;
+$bodyfont: 'Mako', sans-serif;
 $titlefont: 'Yantramanav', sans-serif;
 $navfont: 'VT323', monospace;
 
@@ -19,7 +19,7 @@ $navfont: 'VT323', monospace;
 /**************/
 
 html {
-  font-size: 22px;
+  font-size: 24px;
   font-family: $bodyfont;
 }
 
@@ -50,18 +50,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 36px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 30px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 26px;
 }
 
 h4 {
