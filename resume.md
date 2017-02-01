@@ -5,9 +5,7 @@ permalink: /resume/
 ---
 
 
- 
-
-> [Click here to download my resume](../docs/resume_sample.pdf){:target="_blank"}
+	[Click here to download my resume](../docs/resume_sample.pdf){:target="_blank"}
 			
 
 
@@ -27,19 +25,19 @@ B.S in Computer Science	(Anticipated May 2017)
 
 
 ##### Activities
-Treasurer of Second Dimension Imagination Group
+**Treasurer of Second Dimension Imagination Group**
 
-	Aug. 2016 - Current
+> Aug. 2016 - Current
 
-	- Managing club’s funds, equipment and expenses
-	- Helping planning activities
+> - Managing club’s funds, equipment and expenses
+> - Helping planning activities
 
-Teaching Assistant of ISE108: Introduction to Programming 
+**Teaching Assistant of ISE108: Introduction to Programming**
 
-	Aug. 2016 - Dec. 2016
+> Aug. 2016 - Dec. 2016
 
-	- Provided assistance to students’ questions and problems during lab
-	- Holded office hours
+> - Provided assistance to students’ questions and problems during lab
+> - Holded office hours
 		
 
 
