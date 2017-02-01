@@ -7,19 +7,19 @@
 
 @import "reset";
 @import "variables";
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab|Josefin+Slab');
+@import url('https://fonts.googleapis.com/css?family=Cousine|VT323');
 // Syntax highlighting @import is at the bottom of this file
 
-$bodyfont: 'Roboto Slab', serif;
-$titlefont: 'Roboto Slab', serif;
-$navfont: 'Josefin Slab', serif;
+$bodyfont: 'Cousine', monospace;
+$titlefont: 'Cousine', monospace;
+$navfont: 'VT323', monospace;
 
 /**************/
 /* BASE RULES */
 /**************/
 
 html {
-  font-size: 100%;
+  font-size: 22px;
   font-family: $bodyfont;
 }
 
