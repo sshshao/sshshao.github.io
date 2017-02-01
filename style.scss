@@ -7,8 +7,12 @@
 
 @import "reset";
 @import "variables";
-@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab|Josefin+Slab');
 // Syntax highlighting @import is at the bottom of this file
+
+$bodyfont: 'Roboto Slab', serif;
+$titlefont: 'Roboto Slab', serif;
+$navfont: 'Josefin Slab', serif;
 
 /**************/
 /* BASE RULES */
@@ -16,7 +20,7 @@
 
 html {
   font-size: 100%;
-  font-family: 'Merriweather', serif;
+  font-family: $bodyfont;
 }
 
 body {
@@ -195,7 +199,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: 'Merriweather', serif;
+  font-family: $titlefont;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -214,7 +218,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: 'Merriweather', serif;
+  font-family: $navfont;
   font-size: 24px;
 
   @include mobile {
