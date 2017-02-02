@@ -27,7 +27,7 @@ Sample executable code:
 <br><br>
 
 ### Memory Allocator
-This is a Dynamic Memory Allocator for Unix Systems written in C, using fixed-size block allocation with "first fit" algorithm. An explicit free list is used to store all the free blocks in the memory. Functions such as malloc, free and realloc is supported.
+This is a Dynamic Memory Allocator for Unix Systems written in C, using fixed-size block allocation with "first fit" algorithm. An explicit free list is used to store all the free blocks in the memory. Supports *malloc()*, *free()* and *realloc()* functions.
 
 <br><br>
 
