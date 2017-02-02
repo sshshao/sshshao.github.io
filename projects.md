@@ -22,7 +22,32 @@ A simple "console" parser implemented with PLY (Python Lex-Yacc). Supports if st
 
 Sample executable code:
 
-![screenshot](../images/seawolf_script.jpg "Seawolf Script")
+```python
+ #global variables
+ fibonacciTable = [ 0, 0, 0, 0, 0 ];
+ 
+ #procedure definition
+ fibonacci(index) {
+     if (index == 0) {
+         return 0;
+     }
+     if (index == 1) {
+         fibonacciTable[1]=1;
+         return fibonacciTable[1];
+     }
+     if(fibonacciTable[index] <> 0) {
+         return fibonacciTable[index];
+     } else {
+         fibonacciTable[index] = fibonacci(index - 1) + fibonacci(index - 2);
+         return fibonacciTable[index];
+     }
+ }
+ 
+ #main execution
+ {
+     print(fibonacci(4));
+ }
+ ```
 
 <br><br>
 
