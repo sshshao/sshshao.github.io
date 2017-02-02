@@ -22,7 +22,7 @@ A simple "console" parser implemented with PLY (Python Lex-Yacc). Supports if st
 
 Sample executable code:
 
-![screenshot](../images/seawolf_script "Seawolf Script")
+![screenshot](../images/seawolf_script.jpg "Seawolf Script")
 
 <br><br>
 
