@@ -22,7 +22,8 @@ A simple "console" parser implemented with PLY (Python Lex-Yacc). Supports if st
 
 Sample executable code:
 
-```python
+<pre>
+    <code class="java">
  #global variables
  fibonacciTable = [ 0, 0, 0, 0, 0 ];
  
@@ -47,7 +48,8 @@ Sample executable code:
  {
      print(fibonacci(4));
  }
- ```
+ </code>
+</pre>
 
 <br><br>
 
