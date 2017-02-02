@@ -21,7 +21,7 @@ This software is the first "big" project with user interface I have done, and wh
 A simple "console" parser implemented with PLY (Python Lex-Yacc). Supports if statements, while loops and functions (procedures).
 
 Sample executable code:
-'''python
+```python
 #global variables
 fibonacciTable = [ 0, 0, 0, 0, 0 ];
 
@@ -46,7 +46,7 @@ fibonacci(index) {
 {
     print(fibonacci(4));
 }
-'''
+```
 
 <br><br>
 
