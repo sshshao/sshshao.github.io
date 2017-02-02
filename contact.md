@@ -12,4 +12,4 @@ GitHub: [sshshao](https://github.com/sshshao){:target="_blank"}
 
 LinkedIn: [Shen Shao](https://www.linkedin.com/in/shen-shao-5b4360123){:target="_blank"}
 
-![up](../images/snow.jpg "up" =302x268)
+![up](../images/snow.jpg "up"){: height="268px" width="302px"}
