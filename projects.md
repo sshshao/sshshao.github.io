@@ -11,13 +11,42 @@ permalink: /projects/
 *Regio Vinco* is a map-picking game proided by the professor ([demo](https://www.youtube.com/watch?v=HXFr6on4Yug){:target="_blank"}). The *Regio Vinco* Map Editor is a editing software written in Java that can construct maps for the game. The editor use Simple App Framework to perform basic file operations. The editing file and exported map is constructed in JSON format.
 
 ![screenshot](../images/rvme_sc.png "Regio Vinco Map Editor")
+![screenshot](../images/rvme_sc2.png "Regio Vinco Map Editor")
 
-This software is the first "big" project with 3000+ lines of code I have done, and which I learned the whole process of releasing a software, from software design to beta test and review.
+This software is the first "big" project with user interface I have done, and which I learned the whole process of releasing a software, from software design to beta test and review.
 
 <br><br>
 
 ### Seawolf Script
 A simple "console" parser implemented with PLY (Python Lex-Yacc). Supports if statements, while loops and functions (procedures).
+
+Sample executable code:
+'''python
+#global variables
+fibonacciTable = [ 0, 0, 0, 0, 0 ];
+
+#procedure definition
+fibonacci(index) {
+    if (index == 0) {
+        return 0;
+    }
+    if (index == 1) {
+        fibonacciTable[1]=1;
+        return fibonacciTable[1];
+    }
+    if(fibonacciTable[index] <> 0) {
+        return fibonacciTable[index];
+    } else {
+        fibonacciTable[index] = fibonacci(index - 1) + fibonacci(index - 2);
+        return fibonacciTable[index];
+    }
+}
+
+#main execution
+{
+    print(fibonacci(4));
+}
+'''
 
 <br><br>
 
