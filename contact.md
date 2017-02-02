@@ -12,4 +12,4 @@ GitHub: [sshshao](https://github.com/sshshao){:target="_blank"}
 
 LinkedIn: [Shen Shao](https://www.linkedin.com/in/shen-shao-5b4360123){:target="_blank"}
 
-![up](../images/thumbup.JPG "Regio Vinco Map Editor")
+![up](../images/thumbup.jpg "up")
