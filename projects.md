@@ -24,30 +24,32 @@ Sample executable code:
 
 <pre>
   <code class="java">
-   //global variables
-   fibonacciTable = [ 0, 0, 0, 0, 0 ];
+//global variables
+fibonacciTable = [ 0, 0, 0, 0, 0 ];
 
-   //procedure definition
-   fibonacci(index) {
-     if (index == 0) {
-       return 0;
-     }
-     if (index == 1) {
-       fibonacciTable[1]=1;
-       return fibonacciTable[1];
-     }
-     if(fibonacciTable[index] <> 0) {
-       return fibonacciTable[index];
-     } else {
-       fibonacciTable[index] = fibonacci(index - 1) + fibonacci(index - 2);
-       return fibonacciTable[index];
-   }
+//procedure definition
+fibonacci(index) {
+	if (index == 0) {
+		return 0;
+	}
+
+	if (index == 1) {
+		fibonacciTable[1]=1;
+		return fibonacciTable[1];
+	}
+
+	if(fibonacciTable[index] <> 0) {
+		return fibonacciTable[index];
+	} else {
+		fibonacciTable[index] = fibonacci(index - 1) + fibonacci(index - 2);
+		return fibonacciTable[index];
+	}
+}
 	
-
-   //main execution
-   {
-     print(fibonacci(4));
-   }
+//main execution
+{
+ print(fibonacci(4));
+}
   </code>
 </pre>
 
