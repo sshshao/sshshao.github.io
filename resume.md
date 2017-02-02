@@ -9,7 +9,6 @@ permalink: /resume/
 
 			
 <br><br>
-<p>&#x1F47E</p>
 
 ##### Education
 Stony Brook University
@@ -76,11 +75,3 @@ Aug. 2016 - Dec. 2016
 - Finite Mathematical Structures
 		
 <br><br>
-
-##### Contact
-
-Email: shen.shao@stonybrook.edu
-
-GitHub: [sshshao](https://github.com/sshshao){:target="_blank"}
-
-LinkedIn: [Shen Shao](https://www.linkedin.com/in/shen-shao-5b4360123){:target="_blank"}
