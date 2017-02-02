@@ -32,7 +32,7 @@ This is a Dynamic Memory Allocator for Unix Systems, using fixed-size block allo
 <br><br>
 
 ### (Bash-like) Unix Shell
-A beta version. The basic functions and commands are same as Bash. Supports additional keyboard shortcuts.
+A beta version. The basic functions and commands are same as Bash. Also supports additional keyboard shortcuts.
 
 ![screenshot](../images/shell_sc.jpg "Custom Shell")
 
@@ -43,3 +43,5 @@ An LED alarm clock with a USB charger which I made in a Electical Engineering co
 
 ![screenshot](../images/clock.JPG "Clock")
 ![screenshot](../images/clock_usb.JPG "USB port")
+
+Circuit board was provided. I did soldering, coding and testing, which I enjoyed very much and discovered the difference of coding in Software Engineering and Electrical Engineering. 

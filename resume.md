@@ -9,6 +9,7 @@ permalink: /resume/
 
 			
 <br><br>
+:octocat::octocat::octocat:
 
 ##### Education
 Stony Brook University
