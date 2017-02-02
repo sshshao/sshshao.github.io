@@ -9,7 +9,7 @@ permalink: /resume/
 
 			
 <br><br>
-\xF0\x9F\x91\xBE
+<p>&#x1F47E</p>
 
 ##### Education
 Stony Brook University
