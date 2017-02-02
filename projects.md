@@ -36,5 +36,5 @@ A beta version. The basic functions and commands are same as Bash. Supports addi
 ### Digital Alarm Clock - A Real One!
 An LED alarm clock with a USB charger which I made in a Electical Engineering course. Seconds are indicated by the six LED diodes on the bottom in binary.
 
-![screenshot](../images/clock.jpg "Clock")
-![screenshot](../images/clock_usb.jpg "USB port")
+![screenshot](../images/clock.JPG "Clock")
+![screenshot](../images/clock_usb.JPG "USB port")
