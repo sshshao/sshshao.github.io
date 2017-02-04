@@ -8,12 +8,12 @@ permalink: /projects/
 ### *Regio Vinco* Map Editor
 [Software Design Description (PDF)](../docs/RigioVincoMapEditorSDD.pdf){:target="_blank"}
 
-*Regio Vinco* is a map-picking game proided by the professor ([demo](https://www.youtube.com/watch?v=HXFr6on4Yug){:target="_blank"}). The *Regio Vinco* Map Editor is a editing software written in Java that can construct maps for the game. The editor use Simple App Framework to perform basic file operations. The editing file and exported map is constructed in JSON format. User can change the background border color, edit subregion information, attach images and music, customize the size and scale of the map.
+*Regio Vinco* is a map-picking game provided by the professor ([demo](https://www.youtube.com/watch?v=HXFr6on4Yug){:target="_blank"}). The *Regio Vinco* Map Editor is a editing software written in Java that can construct maps for the game. The editor use Simple App Framework to perform basic file operations. The editing file and exported map is constructed in JSON format. User can change the background border color, edit subregion information, attach images and music, customize the size and scale of the map.
 
 ![screenshot](../images/rvme_sc.png "Regio Vinco Map Editor")
 ![screenshot](../images/rvme_sc2.png "Regio Vinco Map Editor")
 
-This software is the first "big" project with user interface I have done, and which I learned the whole process of releasing a software, from software design to beta test and review. A document of software requirement is provided by the "customer" (professor). I was able to fully experience the real world bussiness.
+This software is the first "big" project with user interface I have done, and which I learned the whole process of releasing a software, from software design to beta test and review. A document of software requirement is provided by the "customer" (professor). I was able to fully experience the real world business.
 
 <br><br>
 
