@@ -87,10 +87,12 @@ Aug. 2016 - Dec. 2016
 
 - Theory of Computations
 
-- Principle of Programming Languages
-
 - Analysis of Algorithms
 
+- Computational Geomatry
+
+- Principle of Programming Languages
+
 - Finite Mathematical Structures
-		
+
 <br><br>
