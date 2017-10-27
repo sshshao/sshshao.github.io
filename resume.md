@@ -25,9 +25,10 @@ B.S in Computer Science	(Anticipated May 2017)
 <br><br>
 
 ##### Work Experience
-Student Project Assistant, Computer Science Department
+Student Project Assistant, Computer Science Department <br>
 Stony Brook University, NY
 *May 2017 - present*
+
 - Working on department’s official mobile application, both iOS and Android
     -	Building with: Ionic Framework, Android Studio, d3.js, Google APIs
     -	Provides news, event information, announcements, etc.
