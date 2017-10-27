@@ -5,8 +5,6 @@ permalink: /resume/
 ---
 
 
-[Click here to download my resume](../docs/resume_sample.pdf){:target="_blank"}
-
 			
 <br><br>
 
@@ -21,6 +19,8 @@ B.S in Computer Science	(Anticipated May 2017)
 - Dean's List
 
 - Fall 2015 Academic Achievement Awards
+
+- Fall 2017 Academic Achievement Awards
 		
 <br><br>
 
