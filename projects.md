@@ -4,7 +4,7 @@ title: Programming Projects
 permalink: /projects/
 ---
 ### ToiletGO
-Project HomePage: [https://devpost.com/software/toiletgo]
+Project HomePage: <https://devpost.com/software/toiletgo>
 ![screenshot](../images/gallery.jpg "ToiletGo")
 ![screenshot](../images/gallery1.jpg "ToiletGo")
 

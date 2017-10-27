@@ -24,14 +24,33 @@ B.S in Computer Science	(Anticipated May 2017)
 		
 <br><br>
 
+##### Work Experience
+Student Project Assistant, Computer Science Department
+Stony Brook University, NY
+*May 2017 - present*
+- Working on department’s official mobile application, both iOS and Android
+    -	Building with: Ionic Framework, Android Studio, d3.js, Google APIs
+    -	Provides news, event information, announcements, etc.
+    -	Created an interactive department building map with d3.js
+
+-	Building a department photo database with keyword-based indexing
+    -	Building with: Microsoft Access, JavaScript
+
+-	Managing digital signage in department building using Scala
+
+<br><br>
+
 ##### Activities
 Treasurer of Second Dimension Imagination Group
 
 Aug. 2016 - Current
 
-- Managing club’s funds, equipment and expenses
+-	A technology club focuses on Multimedia Art; 
+	currently working on music creation project using Vocaloid
 
-- Helping planning activities
+-	Organizing events and managing club budget
+
+-	Helped the club to obtain long-term budget allocation
 
 <br>
 
@@ -48,9 +67,9 @@ Aug. 2016 - Dec. 2016
 ##### Programming Languages
 - 3+ years: Java
 
-- 1+ year: C
+- 1+ year: C, Python
 
-- < 1 year: Python, JavaScript, MIPS Assembly, Standard ML, SWI Prolog
+- < 1 year: JavaScript, MIPS Assembly, Standard ML, SWI Prolog
 		
 <br><br>
 
