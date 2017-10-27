@@ -7,8 +7,9 @@ permalink: /projects/
 Project HomePage: [https://devpost.com/software/toiletgo]
 ![screenshot](../images/gallery.jpg "ToiletGo")
 ![screenshot](../images/gallery1.jpg "ToiletGo")
+
 A real-time occupancy detection system for public restrooms.
-Grand prize winning project of hackathon Hack@CEWIT!
+Grand prize winning project of hackathon [Hack@CEWIT](http://www.cewit.org/programs/hack.php/)!
 
 
 ### *Regio Vinco* Map Editor
